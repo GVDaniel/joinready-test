@@ -14,8 +14,8 @@
 4. get especific user and transactions http://127.0.0.1:8000/api/users/id_user
 
 ## App Working
-https://www.youtube.com/watch?v=uy_xwA3cJXQ
+https://youtu.be/_dPQlwTILHk
 
 ## Api Working
-https://www.youtube.com/watch?v=4UdFTszZ1hc
+https://youtu.be/4UdFTszZ1hc
 
